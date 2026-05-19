@@ -4,7 +4,7 @@ import pickle
 
 # 1. Page Configuration
 st.set_page_config(page_title="Iris Species Predictor", layout="centered")
-st.title("Iris Flower Classification demo ")
+st.title("Iris Flower Classification Minahil ")
 st.markdown("### Predict the species of an Iris flower based on its structural measurements.")
 
 # 2. Load the trained Iris model
